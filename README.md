@@ -1,6 +1,7 @@
 # Real-TIme-waste-classification-and-disposal-recommendation-system
 
 Overview
+
 This project is a Real-Time Waste Classification and Disposal Recommendation System designed to enhance waste management efficiency and promote environmental sustainability. Using Deep Neural Networks (DNN) for image-based waste classification and a user-friendly interface built with Streamlit, this system classifies waste into categories and provides actionable disposal recommendations.
 
 The solution leverages state-of-the-art machine learning techniques, a robust dataset sourced from Kaggle, and modern web application frameworks to bridge the gap between technical innovation and practical usability.
