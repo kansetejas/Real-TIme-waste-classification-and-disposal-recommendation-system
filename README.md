@@ -6,7 +6,7 @@ This project is a Real-Time Waste Classification and Disposal Recommendation Sys
 
 The solution leverages state-of-the-art machine learning techniques, a robust dataset sourced from Kaggle, and modern web application frameworks to bridge the gap between technical innovation and practical usability.
 
-Features
+#Features
 
 Real-Time Image Classification
 
@@ -24,7 +24,7 @@ Scalable and Portable
 
 The system can be deployed locally or on the cloud for real-time, on-the-go usage.
 
-Technical Stack
+#Technical Stack
 
 Programming Language: Python
 Framework: Streamlit for web application
@@ -32,7 +32,7 @@ Machine Learning: Deep Neural Networks implemented with TensorFlow/Keras or PyTo
 Dataset: Kaggle waste classification dataset, featuring thousands of labeled waste images for supervised learning.
 Libraries: NumPy, Pandas, OpenCV, Matplotlib, TensorFlow/Keras, Streamlit
 
-Key Components
+#Key Components
 Data Preprocessing
 
 Image resizing, normalization, and augmentation for robust model training.
@@ -49,12 +49,12 @@ Performance Metrics
 
 Model evaluated on accuracy, precision, recall, and F1 score to ensure reliability.
 
-Dataset
+#Dataset
 The dataset used for training the model is sourced from Kaggle and contains thousands of labeled waste images across multiple categories. The preprocessing pipeline ensures that the data is prepared for effective model training and testing.
 
-Results
+#Results
 Achieved high classification accuracy of 92.01% through iterative training and fine-tuning of the deep neural network.
 The system provides real-time, reliable recommendations for waste disposal, supporting better waste management practices.
 
-Conclusion
+#Conclusion
 This project showcases the practical application of deep learning and web application development in addressing real-world environmental challenges. By combining machine learning with an interactive interface, the system demonstrates how technology can contribute to sustainable development.
